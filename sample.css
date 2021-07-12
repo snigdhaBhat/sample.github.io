@@ -3,10 +3,14 @@
 }
 
 body{
-  background-color: #d1adcc;
+  background-color: #ffffff;
   color: #f6e9d7;
   font-size: 1em;
   font-family: 'Lora', 'Montserrat', sans-serif;
+}
+
+table{
+  font-size: 1.5em;
 }
 
 .right_up{
@@ -88,6 +92,7 @@ body{
     height: 20%;
   }
 
+  /*aligns division to left*/
   .left{
     background-color: #5f2c3e;
     width: 50%;
@@ -97,6 +102,7 @@ body{
     color: #d1adcc;
   }
 
+/*aligns division to right*/
   .right_down{
     width: 50%;
     height: 100%;
